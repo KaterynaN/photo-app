@@ -36,6 +36,7 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'figaro'
 gem 'font-awesome-rails'
+gem 'stripe'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
